@@ -1,5 +1,5 @@
 
-# OPTIMIZING HAZARDOUS WASTE MANAGEMENT FACILITIES IN THE PHILIPPINES: ADDRESSING REGIONAL DISPARITIES
+#  ♻️  OPTIMIZING HAZARDOUS WASTE MANAGEMENT FACILITIES IN THE PHILIPPINES: ADDRESSING REGIONAL DISPARITIES
 
 This project utilizes **Folium** and **GeoPandas** to visualize, analyze, and interpret hazardous waste management data across the Philippines through interactive mapping and geospatial analysis techniques.
 
@@ -11,7 +11,7 @@ By examining this relationship, the study determines whether there is a compleme
 
 The analysis highlights potential gaps and disparities in hazardous waste management across the Philippines, which can help guide future strategies for environmental sustainability, policy development, and infrastructure enhancement.
 
-## Objectives
+##  🎯 Objectives
 
 - Analyze hazardous waste generation per region
 - Compare waste generation with existing TSD facilities
